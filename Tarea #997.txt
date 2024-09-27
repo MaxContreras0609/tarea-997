@@ -1,0 +1,25 @@
+Tarea #997 
+
+Sensores Ópticos
+Descripción: Detectan cambios en la luz para medir o identificar elementos en un entorno.
+Funcionamiento: Convierten la luz en señales eléctricas interpretadas por un sistema.
+Industria: Automatización, telecomunicaciones, dispositivos médicos.
+Año de Creación: Década de 1960.
+
+Sensores de Temperatura
+Descripción: Miden la temperatura de un entorno o sistema utilizando diferentes tecnologías, como termopares y RTDs.
+Funcionamiento: Detectan cambios en la temperatura y los convierten en señales eléctricas o digitales.
+Industria: Climatización, automotriz, medicina.
+Año de Creación: 1821 (primer termopar).
+
+Sensores de Presión
+Descripción: Miden la presión de líquidos o gases, esenciales en aplicaciones industriales y médicas.
+Funcionamiento: Convierten la presión aplicada en una señal eléctrica proporcional.
+Industria: Automotriz, médica, sistemas hidráulicos.
+Año de Creación: Década de 1930.
+
+Sensores de Proximidad
+Descripción: Detectan la presencia de objetos cercanos sin necesidad de contacto físico.
+Funcionamiento: Utilizan tecnologías como ultrasonidos, inducción o infrarrojos para detectar la cercanía de objetos.
+Industria: Automatización, robótica, sistemas de seguridad.
+Año de Creación: Década de 1950.
